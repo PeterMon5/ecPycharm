@@ -8,5 +8,5 @@ def factorial(n):
         while (n>1):
             toReturn *= n
             n -= 1
-        return toReturn
+        return toReturn 
 print(factorial(5))
